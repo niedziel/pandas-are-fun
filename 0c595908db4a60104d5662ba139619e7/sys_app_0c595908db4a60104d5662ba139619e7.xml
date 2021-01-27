@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>0159d5c4db4a60104d5662ba139619e7</logo>
+        <menu/>
+        <name>Pandas Are Fun</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_pandas_are_0</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_snc_pandas_are_0</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-26 19:56:33</sys_created_on>
+        <sys_id>0c595908db4a60104d5662ba139619e7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-26 19:56:37</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>PandaIcon.png</file_name>
+        <hash>cc58e9d9a264a0dfbf1296acefbf28441235d38bfedc49af8c62ebaf4e4c2d6c</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3799</size_bytes>
+        <size_compressed>3822</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-26 19:56:37</sys_created_on>
+        <sys_id>0159d5c4db4a60104d5662ba139619e7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-01-26 19:56:38</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>0c595908db4a60104d5662ba139619e7</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="PandaIcon.png" sys_id="0159d5c4db4a60104d5662ba139619e7">0159d5c4db4a60104d5662ba139619e7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-26 19:56:37</sys_created_on>
+        <sys_id>4159d5c4db4a60104d5662ba139619e7</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>5084</length>
+        <position>1</position>
+        <sys_attachment display_value="PandaIcon.png" sys_id="0159d5c4db4a60104d5662ba139619e7">0159d5c4db4a60104d5662ba139619e7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-26 19:56:37</sys_created_on>
+        <sys_id>c159d5c4db4a60104d5662ba139619e7</sys_id>
+    </sys_attachment_doc>
+</record_update>
